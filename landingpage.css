@@ -1,0 +1,16 @@
+#colorful-div {
+    color: black; /* Set the color of the text */
+    /* Optionally, you can add more styles */
+    background-color: orange; /* Set the background color */
+    padding: 5px; /* Add padding for better appearance */
+}
+
+label {
+    margin-bottom: 5px; /* Adjust spacing between labels */
+}
+
+input {
+    width: 100%; /* Ensure input fields take up full width */
+    padding: 5px; /* Adjust padding inside input fields */
+    margin-bottom: 10px; /* Adjust spacing between input fields */
+}
